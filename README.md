@@ -9,3 +9,4 @@ ass4 :[https://github.com/Mahathi0110/AIML_Batch_05/blob/main/assignment_4.ipynb
 ass5 :[https://github.com/Mahathi0110/AIML_Batch_05/blob/main/assignment_5.ipynb]
 ass6:[https://github.com/Mahathi0110/AIML_Batch_05/blob/main/assignment_06.ipynb]
 ass7:[https://github.com/Mahathi0110/AIML_Batch_05/blob/main/assignment_7.ipynb]
+ass8:[https://github.com/Mahathi0110/AIML_Batch_05/blob/main/assignment_8.ipynb]
